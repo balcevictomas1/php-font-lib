@@ -1,5 +1,5 @@
 {
-    "name": "dompdf/php-font-lib",
+    "name": "balcevictomas1/php-font-lib",
     "type": "library",
     "description": "A library to read, parse, export and make subsets of different types of font files.",
     "homepage": "https://github.com/dompdf/php-font-lib",
